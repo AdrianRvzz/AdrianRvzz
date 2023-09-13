@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### "If you can imagine it, you can program it" -Alejandro Taboada
+### "If you can imagine it, you can program it" <a href="https://twitter.com/AlejandroMTSA">-Alejandro Taboada</a>.
 
 <!--**AdrianRvzz/AdrianRvzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 🔭 I’m currently working on improving my web design, full-stack, and UX/UI skills.
