@@ -11,7 +11,6 @@
 <!--<span style="dispay:flex; justify-content:end;"> "If you can imagine it, you can program it" <a href="https://twitter.com/AlejandroMTSA">-Alejandro Taboada</a></span>-->
 
 
-
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; flex-direction: column; gap: 10px;">
@@ -46,15 +45,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> 
   </div>
 
+
   <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>🎨 Design and Prototyping</h4>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30" /> 
-   
+    <h4>☁️ Cloud Infrastructure</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" />
   </div>
 
 
- 
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <h4>🎨 Prototyping</h4>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> 
+   
+  </div>
+
   
 </div>
 
@@ -63,5 +67,4 @@
 <h5><i>🌐 Connect with Me 👇</i></h5>
     
   [![GitHub followers](https://img.shields.io/github/followers/AdrianRvzz?label=Follow%20Me%20on%20GitHub&style=social)](https://github.com/AdrianRvzz)
-
 
