@@ -8,56 +8,23 @@
 
 
 
-<!--<span style="dispay:flex; justify-content:end;"> "If you can imagine it, you can program it" <a href="https://twitter.com/AlejandroMTSA">-Alejandro Taboada</a></span>-->
+### 👨‍💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,js,python,dart)](https://skillicons.dev)
 
+### 🚀 Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,django,bootstrap,flutter)](https://skillicons.dev)
 
-<div style="display: flex; flex-direction: column; gap: 20px;">
+### 🛢️ Databases
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,firebase)](https://skillicons.dev)
 
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>👨‍💻 Programming Languages</h4>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="30" height="30" />
+### 🛠️ Development Tools
+[![Tools](https://skillicons.dev/icons?i=git,docker,jira)](https://skillicons.dev)
 
-  </div>
+### ☁️ Cloud
+[![Cloud](https://skillicons.dev/icons?i=aws,googlecloud)](https://skillicons.dev)
 
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>🚀 Frameworks and Libraries</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> 
-  </div>
-
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>🛢️ Databases</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" height="30"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30">
-  </div>
-
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>🛠️ Development Tools</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="30" height="30" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"> 
-  </div>
-
-
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>☁️ Cloud Infrastructure</h4>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" />
-  </div>
-
-
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <h4>🎨 Prototyping</h4>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" height="30"> 
-   
-  </div>
+### 🎨 Design
+[![Design](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
   
 </div>
